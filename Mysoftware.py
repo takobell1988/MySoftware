@@ -10,3 +10,9 @@ def welcome():
 
 
 welcome()
+
+
+def test():
+    print("test")
+
+test()
