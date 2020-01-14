@@ -1,9 +1,8 @@
+def click():
+    print("click")
 
 
-
-
-
-
+click()
 
 
 def welcome():
